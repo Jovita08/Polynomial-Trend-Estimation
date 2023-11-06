@@ -1,6 +1,6 @@
 ### EX NO : 09
 ### Date : 06/10/2023
-# <p align="center">Polynomial Trend Estimation</p>
+# <p align="center">POLYNOMIAL TREND ESTIMATION</p>
 
 ## AIM :
 To estimate polynomial trend using python.
